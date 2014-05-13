@@ -5,7 +5,7 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>159B89FD-6D01-4FDE-8769-D234CFFD80DF</string>
+	<string>A65A7B7C-1152-4E54-9A1F-6ED469024D6B</string>
 	<key>IDESourceControlProjectName</key>
 	<string>prime</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
@@ -34,7 +34,7 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>0F631C53-BDD6-4087-B536-B358DD33CF20</string>
 			<key>IDESourceControlWCCName</key>
-			<string>Calculator</string>
+			<string>prime</string>
 		</dict>
 	</array>
 </dict>
