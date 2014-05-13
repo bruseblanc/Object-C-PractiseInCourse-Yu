@@ -13,9 +13,20 @@ int main(int argc, const char * argv[])
 
     @autoreleasepool {
         
-        // insert code here...
-        NSLog(@"Hello, World!");
-        
+        char c;
+        NSLog(@"Enter a single character");
+        scanf("%c",&c);
+        if((c>='a' && c<='z') || (c>='A' && c<='Z'))
+        {
+            NSLog(@"It is an alphabetic character");
+            
+        }else if (c>='0' && c<='9')
+        {
+            NSLog(@"It is a digit");
+        }else
+        {
+            NSLog(@"It is a special character");
+        }
     }
     return 0;
 }

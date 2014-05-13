@@ -5,16 +5,16 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>1E04CE90-6BEE-4D84-A831-2C204959F047</string>
+	<string>7B1F99B1-5ADC-4A06-9211-D3B1ABFF8C5F</string>
 	<key>IDESourceControlProjectName</key>
-	<string>SinglCharacter</string>
+	<string>Calculator</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>0F631C53-BDD6-4087-B536-B358DD33CF20</key>
 		<string>https://github.com/bruseblanc/Object-C-PractiseInCourse-Yu.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>day6/Day7/SinglCharacter/SinglCharacter.xcodeproj/project.xcworkspace</string>
+	<string>day6/Day7/Calculator/Calculator.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>0F631C53-BDD6-4087-B536-B358DD33CF20</key>
